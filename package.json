@@ -1,0 +1,19 @@
+{
+  "name": "2022-john-website",
+  "version": "1.0.0",
+  "description": "angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmaybeforever/2022-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnmaybeforever/2022-website/issues"
+  },
+  "homepage": "https://github.com/johnmaybeforever/2022-website#readme"
+}
